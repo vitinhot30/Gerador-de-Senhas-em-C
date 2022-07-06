@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1655672796 source:c:\users\vitinho\desktop\projetos\projetos c\gerador de senhas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+
